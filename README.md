@@ -1,0 +1,1 @@
+All content on this blog is the sole intellectual property of Erik A. Partridge, copyright 2017. However, the contents of the theme, which is derived from [Tale](https://github.com/chesterhow/tale) is licensed under the MIT License, as is the Tale theme itself, License for which can be found under DERIVED_LICENSE.

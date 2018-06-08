@@ -1,0 +1,31 @@
+# Permalinks
+permalink:      /:year-:month/:title
+
+# Setup
+title:          Etiker Blog
+paginate:       8
+baseurl:        ""
+url:            "https://blog.etiker.com"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Erik Partridge
+  url:          https://www.etiker.com
+  email:        erikp@etiker.com
+
+# Custom vars
+version:        1.0.0
+github:
+  repo:         https://github.com/ErikPartridge/etiker
+
+# Gems
+plugins:
+  - jekyll-paginate
