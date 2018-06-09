@@ -1,7 +1,7 @@
 # Site
 title:              Etiker
 bio:                'The blog for Etiker, an ethics advisor for tech companies'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+description:        "Discussions on tech, ethics, and society, led by the team at Etiker"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.etiker.com" # the base hostname & protocol for your site
@@ -13,7 +13,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    author:
+    author: Etiker Team
 
 # Jekyll
 permalink:          /blog/:title/
@@ -34,11 +34,9 @@ sass:
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
 twitter:            EtikerCo
-facebook:           default
-instagram:          default
-github:             default
+facebook:           Etiker
+github:             Etiker
 
 # personal
 location:           Ottawa, ON

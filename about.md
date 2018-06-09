@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Etiker: About
 description: Here at Etiker, we have conversations about ethics, tech, and society. We like to share these with the world, because we aren't the ones setting ethical codes. You are.
 sitemap:
