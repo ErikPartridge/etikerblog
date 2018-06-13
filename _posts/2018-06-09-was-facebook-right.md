@@ -29,3 +29,5 @@ In this case, the most substantial principle in question is that of informed con
 Mostly not, no. Very limited data sharing _could_ be ethically okay without having informed users beyond the Terms &amp; Conditions of their site. For example, if the Facebook app was crashing on Blackberry anytime a user received a notification of a friends birthday party, Facebook could reasonably share this data with Blackberry if they conclude it to be a hardware issue. At the same time, sharing the name and location of the friend's birthday party would not be. 
 
 The challenge is sharing the minimal amount, in an anonymous manner, for in order to keep the service functioning: that's okay. Going beyond that, or doing so for other purposes is not ethically okay in this situation.
+
+_So, what do you think? Drop us a line: [hello@etiker.com](mailto:hello@etiker.com)_
