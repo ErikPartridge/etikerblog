@@ -21,5 +21,5 @@ Perhaps the most central thing to this specific instance, is the F.T.C.'s 2011 a
 ## The ethical principles
 In this case, the most substantial principle in question is that of informed consent. In effect, this would be entirely fine if Facebook had given the users a box asking if they could share this data with the person's phone manufacturer and for what purposes. _Except maybe not._ Because Facebook was sharing data involving the users' friends, Facebook could not reasonably claim in any situation, to have obtained consent to share this data with phone manufacturers. This works on the same general principle and reasoning that a friend of yours cannot legally sign a contract in your name, in most situations, nor should they be able to.
 
-## So was Facebook right?
-Mostly not, no.
+## So, was Facebook right?
+Mostly not, no. Very limited data sharing _could_ be ethically okay without having informed users beyond the Terms &amp; Conditions of their site. For example, if the Facebook app was crashing on Blackberry anytime a user got a notification of a friends birthday party, Facebook could reasonably share this data with Blackberry if they conclude it to be a hardware issue. Although, sharing the name and location of the friend's birthday party would not be. It's about sharing the minimal amount, in an anonymous fashion, for legitimate purposes to keep the services functioning. That's okay. Just sharing user and users' friends' data to the phone companies, is not.
