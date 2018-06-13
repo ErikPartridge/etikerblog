@@ -6,4 +6,13 @@ excerpt: "Was Facebook right in its sharing of user data to phone manufacturers?
 image: "/images/mobilefb.jpg"
 ---
 
-Some content here
+
+## Preface
+To determine if Facebook was right in sharing the user data to phone manufacturers, we need to first determine what a third party means. It sounds simple--anyone outside the company. In practice, this gets a lot trickier with the way modern software systems are developed.
+
+## How we define third party
+
+## A bit more context for this case
+
+## So was Facebook right?
+Mostly not, no.
