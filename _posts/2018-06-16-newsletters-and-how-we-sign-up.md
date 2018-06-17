@@ -38,3 +38,5 @@ At the same time, having an opt-out link in mailing lists adhering to ethical pr
 Informed consent matters, even when it's just a newsletter, and laws across the world are becoming more strict on this in recent years. When it comes to gathering informed consent, having a nice box for users to enter their email and a short explanation of what they are signing up for can do wonders. Even a simple checkbox (unchecked!) and explanation when they register is another great way of collecting user emails. 
 
 After all happy users buy more, and if they want to sign up they are almost certainly going to want to be a repeat customer. Trying to get a customer to sign-up against their desires is more likely to annoy the customer, and may actually reduce the chances that they come back for another sale.
+
+_So what do you think? Drop us a line: [hello@etiker.com](mailto:hello@etiker.com). Our apologies, we're still yet to find a comment system that meets our needs and commitment to your privacy._
