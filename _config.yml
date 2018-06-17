@@ -44,7 +44,7 @@ phone:              613-701-7709
 email:              hello@etiker.com
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
