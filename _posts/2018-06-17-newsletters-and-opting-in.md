@@ -9,13 +9,13 @@ image: "/images/newspaper.jpg"
 ## Disclaimer
 At times throughout this article, we will briefly discuss the approach various countries have taken to legislating newsletter sign-ups. We are not lawyers, this is not legal advice. If you are planning your own newsletter, please contact a lawyer to discuss applicable laws in your area.
 
-## Established Standards
+## Common Practices
 Various countries have set out various standards for newsletter consent, and there seem to be a few common practices across the industry. The two largest pieces of legislation in the field are the American CAN-SPAM Act, which requires users to be able to opt-out of mailing lists among other key details, and the European Union's GDPR which requires business to collect explicit consent from users before emailing.
 
 #### 1) Sign-up modal or sign-up form
 One common approach, especially for blogs is to show a pop-up dialogue box inviting the user to enter their email to be signed up for the mailing list. This approach is widely viewed as not a polite approach nor considerate, are generally poorly regarded. However, this does not inherently make them unethical. In fact, in our view, a sign-up modal can be perfectly ethical. If it explains that the user is signing up for a newsletter, and how this data will be shared if any, the business is on the right track. Taking this one step further, and ensuring the user can easily decline or cancel the modal, is all that is required to make the dialogue box approach ethical.
 
-Some other sites do a modified version of this, where there is a banner or some other place for people emails to subscribe. So long as users are informed as to third party sharing (and if you have not read about (ethics and third party sharing)[https://blog.etiker.com/blog/was-facebook-right/], now would be a great time), this is totally fine and ethical.
+Some other sites do a modified version of this, where there is a banner or some other place for people emails to subscribe. So long as users are informed as to third party sharing (and if you have not read about [ethics and third party sharing](https://blog.etiker.com/blog/was-facebook-right/), now would be a great time), this is totally fine and ethical.
 
 #### 2) Uncheck a box to opt-out
 For sites that users must register for, a frequent approach is to require a user to uncheck a pre-checked box in order to not be subscribed to the newsletter. This is not an ethical practice, although it may result in more users on the newsletter.
