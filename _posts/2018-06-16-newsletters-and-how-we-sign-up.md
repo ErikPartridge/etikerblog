@@ -33,3 +33,8 @@ In the United States, under the CAN-SPAM Act, generally user opt-in is not requi
 This approach completely disregards the principle of informed consent, and only gives a user after the fact ability to manage their data. Even then, it is not retroactive, nor is it necessarily informed. The principle of opt-out simply does not work well with the principle of informed consent, and acting upon data collected in the first place without informed consent is an issue.
 
 At the same time, having an opt-out link in mailing lists adhering to ethical principles regarding data collection is a good thing. It may be required under the CAN-SPAM Act, and allowing users to revoke their consent is key to maintaining informed consent over time. This is absolutely a practice that should be encouraged once users are signed up, albeit an unethical method to initial registration.
+
+## Concluding Thoughts
+Informed consent matters, even when it's just a newsletter, and laws across the world are becoming more strict on this in recent years. When it comes to gathering informed consent, having a nice box for users to enter their email and a short explanation of what they are signing up for can do wonders. Even a simple checkbox (unchecked!) and explanation when they register is another great way of collecting user emails. 
+
+After all happy users buy more, and if they want to sign up they are almost certainly going to want to be a repeat customer. Trying to get a customer to sign-up against their desires is more likely to annoy the customer, and may actually reduce the chances that they come back for another sale.
