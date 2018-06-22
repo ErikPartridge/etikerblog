@@ -2,7 +2,7 @@
 layout: post
 title:  "Can I Send You a Postcard?"
 date:   2018-06-22
-excerpt: "Let's talk about going offline with user data. Today, we'll chat about the ethics of sending mail to a user who signed up online."
+excerpt: "Let's talk about going offline with user data. Today, we'll chat about the ethics of sending direct mail, and how we can ethically and effectively market to users offline."
 image: "/images/postcard.jpg"
 ---
 
